@@ -3,6 +3,7 @@
 <p><em>Information Systems student at <a href="https://unifei.edu.br/">Federal University of Itajubá - UNIFEI</a></br>Product and technology intern at <a href="https://enercred.com.br/">Enercred</a>
 </em></p>
 <div>
+<img src="https://img.shields.io/badge/lavy%20%233030-1793D1?logo=discord&logoColor=fff&style=for-the-badge">
 <a href="https://instagram.com/lalaskka" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/lalaskka" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:lavynia.oliveira@unifei.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -21,3 +22,9 @@ const lavy = {
 }
 ```
 ![Snake animation](https://github.com/lavyoliveira/lavyoliveira/blob/output/github-contribution-grid-snake.svg)
+<h2></h2>
+ <div>
+<a href="https://github.com/lavyoliveira">
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavyoliveira&layout=compact&langs_count=7&theme=dracula"/>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=lavyoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
