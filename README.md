@@ -14,9 +14,9 @@
 ```javascript
 const lavy = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python, C, C++],
+  code: [Javascript, Typescript, HTML, CSS, Python, C, C++, Flutter],
   tools: [Angular, Node],
-  learning: [Flutter]
+  learning: [Php]
   others: ["adobe XD", "figma", "trello"],
 }
 ```
