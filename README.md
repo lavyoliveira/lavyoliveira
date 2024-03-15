@@ -1,28 +1,36 @@
-<h2>Hi! My name is Lavynia <img src="https://static.wikia.nocookie.net/valorant/images/a/a1/Make_%27Em_Dance_Spray.gif/revision/latest/scale-to-width-down/250?cb=20210226202913" width="50"></h2>
-<img align="right" src="https://media.tenor.com/images/8e7f7acc55980d621c34cad5815081f6/tenor.gif">
-</em></p>
-<div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+
+# Hello👋, welcome to my Github page!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=My+Name+is+Lavynia...;I'm+26+years+old+...;Information+Systems+student..."/>
+
+ <p>- <i>Information Systems student at Federal University of Itajubá - UNIFEI. Always learning new tecnologies, fascinated by solving bugs, developing new softwares and creating wonderful experiences. I am a Front End Developer who's very enthusiast with Full Stack, with huge love for Flutter/Dart, NextJs, but also loves JavaScript.</i></p>
+
+<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
+
+## ⚡🙋‍♂️ About me
+
+</br>
+
+- 😄 Pronouns: she/her
+- 26 years
+- other experiences in scrum, kanbam, serverless, rest API.
+
+<hr>
+
+<div align="center"> 
 <img src="https://img.shields.io/badge/lavy%20%233030-1793D1?logo=discord&logoColor=fff&style=for-the-badge">
 <a href="https://instagram.com/lalaskka" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:lavynia.oliveira@unifei.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lavynia-de-oliveira-2b121322b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+ </div>
+ 
+### Main skills:
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=figma,nodejs,js,ts,nextjs,html,css,react,express,git,vscode,aws,postman,php,flutter,dart,mysql,firebase&perline=10"  />
+</p>
 
-## A little more about me...  
+### Studying in this moment:
 
-```javascript
-const lavy = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python, C, C++, Flutter],
-  tools: [Angular, Node],
-  learning: [Php]
-  others: ["adobe XD", "figma", "trello"],
-}
-```
-![Snake animation](https://github.com/lavyoliveira/lavyoliveira/blob/output/github-contribution-grid-snake.svg)
-<h2></h2>
- <div>
-<a href="https://github.com/lavyoliveira">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavyoliveira&layout=compact&langs_count=7&theme=midnight-purple"/>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=lavyoliveira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-</div>
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
