@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=My+Name+is+Lavynia...;I'm+26+years+old+...;Information+Systems+student..."/>
 
- <p>- <i>Information Systems student at Federal University of Itajubá - UNIFEI. Always learning new tecnologies, fascinated by solving bugs, developing new softwares and creating wonderful experiences. I am a Front End Developer who's very enthusiast with Full Stack, with huge love for Flutter/Dart, NextJs, but also loves JavaScript.</i></p>
+ <p>- <i>Information Systems student at Federal University of Itajubá - UNIFEI. Always learning new technologies, fascinated by solving bugs, developing new softwares and creating wonderful experiences. I am a Front End Developer who's very enthusiast with Full Stack, with huge love for Flutter/Dart, NextJs, but also loves JavaScript.</i></p>
 
 <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
 
